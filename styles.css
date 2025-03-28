@@ -5,7 +5,6 @@
     list-style-type: none;
 }
 body {
-    background-image: url('./img/islamic.jpg');
     background-image: url('islamic.jpg');
     background-repeat: no-repeat;
     background-size: cover;
